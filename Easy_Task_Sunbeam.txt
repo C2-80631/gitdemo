@@ -27,8 +27,7 @@ My_git  username:C2-80631    /C2-80631-SACHIN
 My_Git password : sunbeam70631
 
 My git token 
-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
-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
+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
 
 
 Sunbeam surname : sunbeam-ditiss
